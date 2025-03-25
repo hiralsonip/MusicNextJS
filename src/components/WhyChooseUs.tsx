@@ -55,7 +55,6 @@ const content = [
     },
 ];
 
-
 function WhyChooseUs() {
     return (
         <div>
