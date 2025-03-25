@@ -31,7 +31,7 @@ const FeaturedCourses = () => {
                 </div>
             </div>
 
-            <div className='mt-20'>
+            <div className='mt-20 mx-20'>
                 <div className='grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 justify-center'>
                     {featuredCourses.map((course: Course) => (
                         <div key={course.id} className='flex justify-center'>
