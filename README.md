@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Music Academy Website
 
-## Getting Started
+Welcome to the **Music Academy Website** – a modern, responsive, and feature-rich web application built using **Next.js** and **Aceternity UI**.
 
-First, run the development server:
+## 🚀 Features
+- **Next.js 15** – Fast, SEO-friendly, and optimized framework
+- **Aceternity UI** – Beautiful, pre-styled components for a great UI/UX
+- **Dark Mode Support** – Seamless light/dark mode experience
+- **Fully Responsive** – Works across all screen sizes
+- **Dynamic Routing** – Efficient page management with Next.js
 
+## 🛠 Tech Stack
+- **Frontend:** Next.js, TypeScript, Aceternity UI
+- **Styling:** Tailwind CSS
+- **State Management:** React Hooks
+
+## 🎥 Project Demo
+
+https://github.com/user-attachments/assets/f286b6ee-ff5f-4349-b411-ec8f64296490
+
+## 📦 Installation
+### 1️⃣ Clone the Repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/hiralsonip/MusicNextJS
+cd musicnextjs
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2️⃣ Install Dependencies
+```bash
+npm install  # or yarn install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 3️⃣ Run the Development Server
+```bash
+npm run dev  # or yarn dev
+```
+> Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
